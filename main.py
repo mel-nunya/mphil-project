@@ -10,3 +10,4 @@ from tensorflow.keras.layers.advanced_activations import LeakyReLU
 batch_size = 64
 epochs = 20
 num_classes = 10
+
